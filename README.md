@@ -9,7 +9,7 @@
 - 🏆 **Full Scholarship Recipient** - Cyber Defense Academy (CDA) worth **IDR 30 million**
 - 🌍 Mentored by international professionals from **DIAAS.IN (India)** through the **SEAL program**
 
-### 🔍 **Capture The Flag**
+### 🔍 **Capture The Flag & Bug Hunting**
 ```
 🐛 Web Exploitation – Skilled in XSS, SQLi (blind & error-based), RCE, SSRF, SSTI.
 🔓 Cryptography – Experienced in attacking RSA, AES, ECC, and classical ciphers.
@@ -25,13 +25,15 @@ OS:            Linux • Windows • Kali Linux
 
 ## 🏆 Achievements & Recognition
 
-| 🏆 Achievement | 🎯 Competition | 📅 Year |
-|----------------|----------------|----------|
-| 🥉 **3rd Place** | Techtonic CTF - Univ. Bangka Belitung | 2024 |
-| 🏅 **6th Place** | SNI CTF | 2024 |
-| 🏅 **Finalist** | Slashroot 3.0 (STIKOM Bali) | 2024 |
-| 🏅 **Finalist** | Netcomp 3.0 (UGM) | 2024 |
-| 🎓 **Full Scholarship** | Cyber Defense Academy (CDA) | 2025 |
+| 🏆 Achievement                        | 🎯 Competition / Program                                 | 📅 Year |
+| ------------------------------------- | -------------------------------------------------------- | ------- |
+| 🥉 **3rd Place**                      | Techtonic CTF – Univ. Bangka Belitung                    | 2024    |
+| 🏅 **6th Place**                       | SNI CTF                                                  | 2024    |
+| 🏅 **Finalist**                       | Slashroot 3.0 – STIKOM Bali                              | 2024    |
+| 🏅 **Finalist**                       | Netcomp 3.0 – Universitas Gadjah Mada                    | 2024    |
+| 🎓 **100% Scholarship Recipient**     | Cyber Defense Academy (CDA)                              | 2025    |
+| 🏅 **Top 3 Best Entrepreneurs**       | PEDE Innovation Lab - British Embassy Jakarta            | 2025    |
+| 🏅 **Most Promising Startup**         | Green Tech Innovation Showcase - British Embassy Jakarta | 2025    |
 
 ## 🎯 Current Focus
 
