@@ -1,10 +1,10 @@
-<div align="center"> <h1>Hi there, I'm Radika! 👋</h1>
+<div align="center"> <h1>Hi precious people, I'm Radika! 👋</h1>
   <p>Cyber Security • CTF Player • Bug Hunter • Education</p> 
 </div>
 
 ## 🚀 About Me 
-- 🎓 **SMK Telkom Malang** - Computer and Network Engineering (Cybersecurity Focus)
-- 🔭 Currently participating in **Bug Bounty Programs** and **CTF Competitions**
+- 🎓 **SMK Telkom Malang** - Majoring in Cyber Security
+- 🔭 Currently active in **Bug Bounty Programs** and **CTF Competitions**
 - 🎯 **Career Goal**: Senior Security Technical Program Manager, AWS Security
 - 🏆 **Full Scholarship Recipient** - Cyber Defense Academy (CDA) worth **IDR 30 million**
 - 🌍 Mentored by international professionals from **DIAAS.IN (India)** through the **SEAL program**
