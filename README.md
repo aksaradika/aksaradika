@@ -3,7 +3,7 @@
 </div>
 
 ## 🚀 About Me 
-- 🎓 **SMK Telkom Malang** - Majoring in Cyber Security
+- 🎓 **SMK Telkom Malang** - Major in Cyber Security
 - 🔭 Currently active in **Bug Bounty Programs** and **CTF Competitions**
 - 🎯 **Career Goal**: Senior Security Technical Program Manager, AWS Security
 - 🏆 **Full Scholarship Recipient** - Cyber Defense Academy (CDA) worth **IDR 30 million**
@@ -101,7 +101,7 @@ OS:            Linux • Windows • Kali Linux
 
 <div align="center">
 
-*"In cybersecurity, the only constant is change. Stay curious, stay secure."*
+*"Sustainable Solutions through Cyber Security Innovation."*
 
 </div>
 
