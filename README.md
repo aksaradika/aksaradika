@@ -11,8 +11,8 @@
 
 ### 🔍 **Capture The Flag**
 ```
-🐛 Web Exploitation
-🔓 Cryptography         
+🐛 Web Exploitation – Skilled in XSS, SQLi (blind & error-based), RCE, SSRF, SSTI.
+🔓 Cryptography – Experienced in attacking RSA, AES, ECC, and classical ciphers.
 ```
 
 ### 💻 **Technical Skills**
