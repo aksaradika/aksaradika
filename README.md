@@ -7,7 +7,6 @@
 🎓 **SMK Telkom Malang** - Major in Cybersecurity  
 🔭 Currently building solutions in **Sustainable Innovation Through Cyber Security Innovation**  
 🎯 **Career goal**: BCs Cyber Security and Senior Security Technical Program Manager, AWS Security
-🏆 **International Brand Ambassador** 
 🌍 **Global participant** in 10+ international programs and conferences  
 
 # 💻 Tech Stack:
