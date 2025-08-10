@@ -1,100 +1,107 @@
-# Hi there, I'm Radika! 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Business+%26+Technology+Student;International+Brand+Ambassador;Youth+Leader+%26+Innovator;Building+Tech+for+Social+Impact" alt="Typing SVG" />
+<div align="center"> <h1>Hi there, I'm Radika! 👋</h1>
+  <p>Cyber Security • CTF Player • Bug Hunter • Education</p> 
 </div>
 
-**Cybersecurity • Business Innovation • Youth Leadership**
+## 🚀 About Me 
+- 🎓 **SMK Telkom Malang** - Computer and Network Engineering (Cybersecurity Focus)
+- 🔭 Currently participating in **Bug Bounty Programs** and **CTF Competitions**
+- 🎯 **Career Goal**: Senior Security Technical Program Manager, AWS Security
+- 🏆 **Full Scholarship Recipient** - Cyber Defense Academy (CDA) worth **IDR 30 million**
+- 🌍 Mentored by international professionals from **DIAAS.IN (India)** through the **SEAL program**
 
-## 🚀 About Me
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&width=435&lines=🎓+SMK+Telkom+Malang+-+Cybersecurity+Focus;🔭+Building+solutions+in+cybersecurity;🎯+Career+goal%3A+Tech+for+social+impact;🏆+International+Brand+Ambassador;🌍+Global+participant+in+10%2B+programs" alt="About Me Typing" />
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=600&lines=Python+•+C+•+JavaScript+•+HTML%2FCSS;Cyber+Defense+•+Risk+Mitigation+•+Threat+Hunting;Market+Research+•+Data+Visualization+•+Analytics;AWS+•+Social+Media+Management+•+Content+Strategy" alt="Tech Stack Typing" />
-</div>
-
-## 🌟 Current Focus
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=FF6B6B&width=500&lines=🔐+Cybersecurity+Projects;💼+Business+Innovation;🌐+International+Collaboration;📚+Continuous+Learning" alt="Current Focus" />
-
+### 🔍 **Capture The Flag**
+```
+🐛 Web Exploitation
+🔓 Cryptography         
 ```
 
-## Method 2: Customization Options
-
-Here are the key parameters you can customize:
-
-### Basic Parameters:
-- `font`: Font family (Fira+Code, Arial, etc.)
-- `size`: Font size (default: 20)
-- `color`: Text color (hex without #, or color names)
-- `width`: Width of the image
-- `height`: Height of the image
-- `center`: Center align text (true/false)
-- `vCenter`: Vertically center text (true/false)
-
-### Animation Parameters:
-- `lines`: Text lines separated by semicolons
-- `pause`: Pause duration between lines (milliseconds)
-- `duration`: Typing duration for each line
-- `repeat`: Loop animation (true/false, default: true)
-
-## Method 3: Advanced Examples
-
-```md project="Advanced Typing Animations" file="advanced-typing.md" type="markdown"
- Multi-line with different speeds 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there%2C+I'm+Radika!+👋;Cybersecurity+%26+Business+Innovation" alt="Multi-line Typing" />
-
- With background 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&background=2196F3&center=true&width=500&lines=Building+Tech+for+Social+Impact;International+Brand+Ambassador;Cybersecurity+Enthusiast" alt="Background Typing" />
-
- Gradient colors 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7FF,F75C7EFF&center=true&width=600&lines=Python+Developer;Cybersecurity+Expert;Business+Innovator;Youth+Leader" alt="Gradient Typing" />
-
- Random order 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&random=true&width=435&lines=Award+Winner;Tech+Enthusiast;Global+Participant;Innovation+Leader" alt="Random Typing" />
+### 💻 **Technical Skills**
+```
+Languages:     Python • C • JavaScript • NextJS • PowerShell
+Frameworks:    Burp Suite • IDApro • Nmap • Wireshark
+Cloud:         AWS Security
+OS:            Linux • Windows • Kali Linux 
 ```
 
-## Method 4: Complete Example for Your Profile
+## 🏆 Achievements & Recognition
 
-```md project="Complete Profile with Typing" file="complete-profile.md" type="markdown"
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2196F3&width=600&lines=Hi+there%2C+I'm+Radika!+👋" alt="Header Typing" />
+| 🏆 Achievement | 🎯 Competition | 📅 Year |
+|----------------|----------------|----------|
+| 🥉 **3rd Place** | Techtonic CTF - Univ. Bangka Belitung | 2024 |
+| 🏅 **6th Place** | SNI CTF | 2024 |
+| 🏅 **Finalist** | Slashroot 3.0 (STIKOM Bali) | 2024 |
+| 🏅 **Finalist** | Netcomp 3.0 (UGM) | 2024 |
+| 🎓 **Full Scholarship** | Cyber Defense Academy (CDA) | 2025 |
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast+🔐;International+Brand+Ambassador+🌍;Business+%26+Technology+Student+🎓;Youth+Leader+%26+Innovator+🚀;Building+Tech+for+Social+Impact+💡" alt="Typing SVG" />
-</div>
+## 🎯 Current Focus
 
----
+- 🐛 **Bug Bounty Programs**: Actively hunting vulnerabilities on major platforms
+- 🚩 **CTF Competitions**: Participating in national and international challenges  
+- ☁️ **AWS Security**: Preparing for AWS Security Specialty certification
+- 🎓 **Continuous Learning**: Advanced cybersecurity techniques and methodologies
 
-## 🚀 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=3000&color=36BCF7&width=200&lines=About+Me" alt="About Me" />
+## 🌟 Featured Projects
 
-🎓 **SMK Telkom Malang** - Computer and Network Engineering (Cybersecurity Focus)  
-🔭 Currently building solutions in **cybersecurity, digital marketing, and social innovation**  
-🎯 **Career goal**: Bridge technology and business for social impact  
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=FF6B6B&center=true&width=500&lines=🏆+Generated+10M%2B+IDR+in+value;📈+Boosted+brand+exposure+by+79%25;🤝+Secured+4%2B+educational+sponsors;🎤+Host%2FModerator+for+webinars" alt="Achievements" />
-</div>
-
-## 🛠️ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=3000&color=36BCF7&width=200&lines=Tech+Stack" alt="Tech Stack" />
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1500&color=2196F3&center=true&width=700&lines=Programming%3A+Python+•+C+•+JavaScript+•+HTML%2FCSS;Cybersecurity%3A+Cyber+Defense+•+Risk+Mitigation+•+Threat+Hunting;Business%3A+Market+Research+•+Data+Visualization+•+Analytics;Tools%3A+AWS+•+Social+Media+Management+•+Content+Strategy" alt="Tech Stack Typing" />
-</div>
+```
+🔧 Custom Security Tools        📊 Vulnerability Dashboards
+🐍 Python Security Scripts      🔍 Automated Recon Tools
+🛡️ Network Security Monitors    📱 Mobile Security Testing
 ```
 
-## Pro Tips:
+## 📊 GitHub Stats
 
-1. **URL Encoding**: Use `%2B` for `+`, `%3A` for `:`, `%2F` for `/`, `%20` for spaces
-2. **Color Codes**: Use hex colors without the `#` symbol
-3. **Performance**: Don't use too many typing animations on one page
-4. **Mobile Friendly**: Test different widths for mobile compatibility
-5. **Fallback**: Always include alt text for accessibility
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" alt="GitHub Stats" />
+</div>
 
-## Quick Setup for Your Profile:
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B6B&currStreakLabel=00FF41" alt="GitHub Streak" />
+</div>
 
-Replace this in your README:
-```markdown
-# Hi there, I'm Radika 👋
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+## 🎓 Education & Certifications
+
+**🏫 SMK Telkom Malang**
+- Computer and Network Engineering (Cybersecurity Focus)
+- Expected Graduation: June 2026
+
+**🛡️ Cyber Defense Academy (CDA)**
+- Full Scholarship Recipient (IDR 30 million value)
+- International mentorship through SEAL program
+- Mentored by professionals from DIAAS.IN (India)
+
+**📜 Certifications:**
+- Cisco Networking Academy - Cybersecurity Fundamentals
+- Various CTF and Bug Bounty certifications
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=FF6B6B&center=true&width=500&lines=Let's+collaborate+on+cybersecurity!;Always+open+to+new+challenges;Bug+bounty+partnerships+welcome!" alt="Connect" />
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aksaradika)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aksaradika.32@moklet.org)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aksaradika)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=00FF41&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=3000&color=00FF41&center=true&width=600&lines=🔐+Securing+the+digital+world%2C+one+bug+at+a+time;🚩+CTF+Player+•+Bug+Hunter+•+Future+AWS+Security+Expert" alt="Footer" />
+</div>
+
+<div align="center">
+
+*"In cybersecurity, the only constant is change. Stay curious, stay secure."*
+
+</div>
+
